@@ -1,3 +1,5 @@
+file:///Users/vivek/Downloads/bluebells_image_quality_report_embedded.html
+
 # Gemini Image Analyst (Enterprise Edition)
 
 **A professional-grade Image Quality Assurance (QA) tool powered by Google's Gemini 2.5 Multimodal Vision API.**

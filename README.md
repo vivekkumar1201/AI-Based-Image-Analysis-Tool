@@ -1,4 +1,13 @@
-file:///Users/vivek/Downloads/bluebells_image_quality_report_embedded.html
+<img width="1506" height="776" alt="image" src="https://github.com/user-attachments/assets/23b82153-717d-431a-8b75-dea1adb684d7" />
+
+<img width="1506" height="776" alt="image" src="https://github.com/user-attachments/assets/5c287cc5-36cc-4db2-a1a4-da139be29d0b" />
+
+<img width="1506" height="776" alt="image" src="https://github.com/user-attachments/assets/12abacbe-be04-41a9-b88b-f1102bdda977" />
+
+<img width="1506" height="776" alt="image" src="https://github.com/user-attachments/assets/dc28d135-263a-49d0-ae5a-643665af0ded" />
+
+<img width="1506" height="776" alt="image" src="https://github.com/user-attachments/assets/e7b8c629-fc84-40ee-88b7-7511b1943c58" />
+
 
 # Gemini Image Analyst (Enterprise Edition)
 
